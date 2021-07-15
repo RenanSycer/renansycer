@@ -1,6 +1,4 @@
-### Hi there 👋 
-
-## Hi, I'm Renan Fernandes, a Developer from Brazil.
+## Hi, I'm Renan Fernandes, a Developer from Brazil. 👋 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renan-fernandes-5924a9100/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:renanfernandeslol@gmail.com)
 &nbsp;
