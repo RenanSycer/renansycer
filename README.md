@@ -5,7 +5,7 @@
 
 Talking about Personal Stuffs:
 - :man: I’m currently learning NestJS, Go and Docker; 
-- :computer: I'm a graduated in Systems analysis;
+- :computer: I'm a graduated in Systems Analysis;
 - ⚡️ Enthusiast in Programming Languages, Games, Machine Learning and AI.
 - :mailbox: How to reach me: renanfernandeslol@gmail.com;
 
